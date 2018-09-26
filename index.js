@@ -31,5 +31,5 @@ console.log(parseFloat('80.123999'));
 var a=3,b=5;
 function add(a, b)
 {
-  console.log(a+b);
+  return (a+b);
 }
