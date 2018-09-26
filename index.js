@@ -28,4 +28,8 @@ console.log(parseInt('2',10));
 console.log(parseInt('2.2222',10));
 
 console.log(parseFloat('80.123999'));
-
+var a=3,b=5;
+function add(a, b)
+{
+  console.log(a+b);
+}
