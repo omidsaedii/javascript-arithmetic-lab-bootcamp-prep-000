@@ -33,6 +33,7 @@ function add(a, b)
 {
   return (a+b);
 }
+<<<<<<< HEAD
 
 function subtract(a, b)
 {
@@ -79,3 +80,5 @@ function preserveDecimal(n)
 }
 
 
+=======
+>>>>>>> 5b7169146860f2629022e4a5d2a50ea72dd525cf
